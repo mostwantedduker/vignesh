@@ -12,6 +12,23 @@ System.out.println("invalid");
 	
 		
 	}
-	
+static int b=100;
+ private void sysout() {
+	System.out.println(b);
+
 }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
 
